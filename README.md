@@ -1,8 +1,8 @@
-lilsyncer
-=========
+#lilsyncer
 
-a small tool to sync your Skydrive, Dropbox and iCloud Photo streams together...
+##What is it?
 
-The plan for lilsyncer is to allow easy syncing of your Dropbox and SkyDrive photo folders and your iCloud Photo Stream on your machine. 
+a small tool to sync your Skydrive, Dropbox and iCloud Photo streams together... built it in about 10 min, and does very little other than copy files around...
 
-The plan is to watch the actual folders on your machine, so this runs locally, not in "the cloud". Dropbox, SkyDrive and iCloud will do their magic in the backgroud.
+##Future plans?
+probably nothing really... not had time to do much with it...
